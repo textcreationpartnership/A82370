@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The East-India trade</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82370</idno>
+            <idno type="STC">Wing E101A</idno>
+            <idno type="STC">ESTC R224981</idno>
+            <idno type="EEBO-CITATION">99900002</idno>
+            <idno type="PROQUEST">99900002</idno>
+            <idno type="VID">132867</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82370)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132867)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2496:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The East-India trade</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1693?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>First lines of text: Being a jewel not enough to be valued, or to say the least can be said of it, not fit to be thrown away, has many sessions of Parliament much troubled the House, ... .</note>
+                  <note>Dated at end: December 29. 1693.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  Early works to 1800.</term>
+               <term>Trading companies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:132867:1"/>
+            <head>THE Eaſt-India TRADE.</head>
+            <p>BEing a Jewel not enough to be valued, Or to ſay the leaſt can be ſaid of it, not fit to be thrown away, has many Seſſions of Parliament much troubled the Houſe, occaſioned by two Intereſts, both ſtriving to get the ſame Thing; the one be<g ref="char:EOLhyphen"/>ing the Intereſt of the Old Company, the other being the Intereſt of many other Rich Men, who very fain would be a New. This to<g ref="char:EOLhyphen"/>gether with ſome Clauſes in the Old Company's Charter, which ſay, there ſhall Three Years Notice be given, before that Charter ſhould determine, ſo puzled the Cauſe, that the whole was referred to the King; but before any thing was done by His Majeſty in't, Pro<g ref="char:EOLhyphen"/>vidence ſo ordered the Matter, that the Old Company's Charter by Act of Parliament became Null and Void; and the Prudence of Their Majeſties thereupon ſo ordered the Matter, that in the New Charter given them, there is (among other things) Power reſer<g ref="char:EOLhyphen"/>ved till <hi>Michaelmas</hi> 1694. to even Determine that Charter.</p>
+            <p>So that this Matter ſeems to come plainly before the Houſe to Ad<g ref="char:EOLhyphen"/>viſe in't as they ſhall ſee beſt: And if the Houſe does not now ſo Order the Matter, that theſe Mighty great Riches to be hoped from <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>Indies,</hi> ſo ſtrove for by ſome, may be given to all, according <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their reſpective Intereſts they have in the Lands and other Rents of this Kingdom, the Generations to come in every Pariſh of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> when they ſhall come to know the Advantage they might have had by being concerned in this Trade, and find themſelves excluded from it, will ſay at the leaſt, there was an Opportunity ſlipt; whereas if the Matter be but ſo ordered, as that the Benefit of that Trade may in General as aforeſaid accrew unto all, all muſt be certainly pleaſed with it: Beſides which, at this time it may poſſibly further Advantage the Publick, in caſe they Reſolve to raiſe the Tax on Land by way of a Pound Rate, by making the Land-Owners the more willing to let their Eſtates be Taxed to the true Value, that ſo they may accordingly be concerned in this Trade, which in few Years will make them Amends, if ſettled in ſome Method, like what
+<pb n="2" facs="tcp:132867:2"/>is herein after propoſed, which being Printed laſt Year, is at the deſire of ſome (who then ſeemed to be pleaſed with it) reprinted in the very ſame words, as follows. To preſerve the <hi>East-India</hi> Trade, in ſuch ſort as to make it National truly for the good of the Pub<g ref="char:EOLhyphen"/>lick, and ſo that the Landed Men of the Kingdom, who are moſt burdened with Taxes, and are the only Perſons can and will ſuffer in their Rents and Eſtates, unleſs concerned ſome way in Intereſt by the now intended Increaſe of this Mighty <hi>Eaſt-India</hi> Trade may not be prejudiced, but rather much Advantaged thereby, and without pay<g ref="char:EOLhyphen"/>ing down any thing for it.</p>
+            <div type="proposal">
+               <head>It's Propoſed,</head>
+               <p>That this Trade ſhould be ſettled by Parliament, ſo as to be car<g ref="char:EOLhyphen"/>ried on by a Joynt-Stock Excluſive to others, and under ſuch Regu<g ref="char:EOLhyphen"/>lations as ſhall be expreſs'd in the Act.</p>
+               <p>That this Trade ſhould be Managed by a Number of Perſons (leſs than Fifteen enough) to be choſen by Parliament, to whom they ſhould be accountable, and that upon Oath, when required.</p>
+               <p>That that Number of Perſons ſhall (by a common Seal) be Em<g ref="char:EOLhyphen"/>powered to take up Money at Intereſt, not exceeding 1400000<abbr>
+                     <hi>l.</hi>
+                  </abbr> for carrying on of this Trade, at ſuch time, and in ſuch proportions as ſhall by them be found needful for it.</p>
+               <p>That the Money ſo taken up and employed in this Trade, ſhall always be liable to pay Principal and Intereſt to the Lenders thereof as the ſame becomes due, and be required. And,</p>
+               <p>That there may be no fear of borrowing Money enough to thus carry on well this New intended <hi>Eaſt-India</hi> Trade, <hi>'tis farther Pro<g ref="char:EOLhyphen"/>poſed,</hi>
+               </p>
+               <p>That there ſhould be ſettled for ever, one ſingle Months <hi>Tax</hi> in a Year, after the rate of 70000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 
+                  <hi>per Menſem,</hi> as a Fund to a perpetual <hi>Interest</hi> at 5 <hi>per Cent.</hi> of 1400000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> but not to be raiſed but when found needful by the Perſons appointed to Manage the <hi>Trade.</hi>
+               </p>
+               <p>So that beſides the Money employed in this Trade, and the Profit of it, out of which the <hi>Intereſt</hi> of the Money to be Borrowed for the carrying it on, may be eaſily paid, here will be Land Security as a perpetual Fund for the <hi>Intereſt</hi> ſettled, ſo that ſhould the <hi>Stock</hi> fail, the Lenders will be ſecure, which will give the Company ſuch a Credit, they can never want <hi>Money</hi> at the loweſt <hi>Interest</hi> that any where it can be had. And,</p>
+               <pb n="3" facs="tcp:132867:2"/>
+               <p>Thus the Profits firſt ariſing, may go to clear the <hi>Money</hi> firſt Borrowed, and after that is paid, to the Owners of Land in Pro<g ref="char:EOLhyphen"/>portion to their Eſtates as Rated to this ſingle Months Tax; and to make this effectual, the whole Stock and its Proceed muſt for ever remain ſo fixed to the Land it ſelf, that it ſhall be in the Power of no Man to ſell the one, without ſelling the other at all, and it may be hence hoped, that after the firſt five or ſix years (without paying one Penny) the Landed-men of the Nation may have the whole Bene<g ref="char:EOLhyphen"/>fit of this great <hi>Eaſt-India</hi> Trade. And,</p>
+               <p>When any Dividend (after the Money borrowed to carry on the <hi>Trade</hi> is repay'd ſhall be made of the Profits, it ought never to be under 15 <hi>per Cent.</hi> which (upon a Stock of 1400000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> to be kept always intire) amounts to 2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> and that at the rate of 70000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 
+                  <hi>per Menſem</hi> will be a juſt three Months Tax, which on ſuch Dividend (to yearly be hoped for) ſhould be paid to the Sheriff of the County, and by him be ſent to each Diviſion or Hundred of his County, and thence to each Pariſh, where the owner of Land will receive as much Money as his Land would be aſſeſt at for a three Months Tax, after the rate of 70000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 
+                  <hi>per Menſem</hi> on every ſuch Dividend made. And this way of deviding will be very eaſie and ſafe. And,</p>
+               <p>This would make it National truly, and a great Advantage to all, and Landed Men only being therein concerned, and ſuch a Fund of Security ſetled, the Stock might at any time be eaſily enlarged (if found needful) for the Publick Advantage and Profit; ſo that 'twould quickly out-do all Companies that ever ſet up in <hi>England,</hi> be a ge<g ref="char:EOLhyphen"/>neral Good, and to be never complained of, which any other (on a Stock raiſed by Subſcriptions) will very ſoon be, and by eſpecially ſuch who may after have Money, they would gladly put into't, ha<g ref="char:EOLhyphen"/>ving not at the firſt Subſcribed to it.</p>
+               <p>To this it may and will be objected and ſaid,</p>
+               <p>This is a matter of Trade, and beſt managed by Merchants who know one another, and ſo are only able to chuſe fit Managers for it, whoſe Intereſt in a Stock (to be raiſed by Subſcriptions) will always oblige them to act the beſt they can for it; and Merchants being this way Excluded, where will you find able and honeſt Men to undertake it, that will mind and manage the Trade to the beſt ad<g ref="char:EOLhyphen"/>vantage, ſo well as ſuch Merchants would do that might have great Stocks themſelves in that Trade.</p>
+            </div>
+            <div type="answer">
+               <pb n="4" facs="tcp:132867:3" rendition="simple:additions"/>
+               <head>Anſwer,</head>
+               <p>
+                  <hi>Merchants</hi> are not ſo Excluded, but that they may be choſen for the <hi>Managers</hi> of it, and 'tis not to be doubted, but that the <hi>Parli<g ref="char:EOLhyphen"/>ament</hi> may chooſe as able and honeſt Men as Subſcribers can, for a Committee to manage this Trade, and thoſe choſen by <hi>Parliament,</hi> being made Accountable to it upon Oath, are likely to act as honeſt<g ref="char:EOLhyphen"/>ly at leaſt as a Committee choſen by Subſcribers will do for the gene<g ref="char:EOLhyphen"/>ral good of this Stock, to the beſt of their knowledge and skill, and 'tis fit they ſhould have (beſides a Sallery of two Cuinies Weekly) the ſame Encouragement ſo to act for the good of the Stock, as if they themſelves had conſiderable Stocks in the Trade, all which may well thus be contrived.</p>
+               <p>Suppoſe theſe <hi>Managers</hi> are obliged to meet twice a Week certain, and oftner if needful to take care of this Stock, and that for ſuch day of the two which they Perſonally appear, to have one Guiney paid them, in lieu of a Sallery of 100 <abbr>
+                     <hi>l.</hi>
+                  </abbr> yearly, but not to be paid, but only for the days they appear, which will make them more duly attend. And</p>
+               <p>That for every Dividend made (which 'tis hop'd may be yearly) of 15 <hi>per Cent.</hi> as aforeſaid, that there ſhould be paid two <hi>per Cent.</hi> for that Dividend, which as aforeſaid ſuppoſing it to be 15 <hi>per Cent</hi> on a 1400000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> Stock, makes 210000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> and for ſuch Dividend ſup<g ref="char:EOLhyphen"/>poſing 2 <hi>per Cent</hi> paid to the <hi>Managers,</hi> makes 4200 <abbr>
+                     <hi>l.</hi>
+                  </abbr> which if di<g ref="char:EOLhyphen"/>vided twixt fourteen <hi>Manygers,</hi> makes 300 <abbr>
+                     <hi>l.</hi>
+                  </abbr> each, and is equal ad<g ref="char:EOLhyphen"/>vantage to them, and will make them act full as well for the Common good, as if they had each 2000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 
+                  <hi>Stock</hi> in the Trade, and yet that advantage of 2 <hi>per Cent.</hi> for each Dividend (ſuppoſing 210000 <abbr>
+                     <hi>l.</hi>
+                  </abbr>  which is 15 <hi>per Cent.</hi> each year divided) together with a Sallery of 100 <abbr>
+                     <hi>l.</hi>
+                  </abbr> yearly for 14 <hi>Managers</hi> of it, amounts to but 2 <abbr>
+                     <hi>s.</hi>
+                  </abbr> in the 100 <abbr>
+                     <hi>l.</hi>
+                  </abbr> unleſs a Dividend made, and then but to yearly 5600 <abbr>
+                     <hi>l.</hi>
+                  </abbr>  which is 8 <abbr>
+                     <hi>s.</hi>
+                  </abbr> in each 100 <abbr>
+                     <hi>l.</hi>
+                  </abbr> only on the whole Stock (ſuppoſed 1400000 <abbr>
+                     <hi>l.</hi>
+                  </abbr>) for taking this care of the Trade, which moſt eaſily will bear ſuch a Charge.</p>
+               <p>
+                  <hi>Other Objections no doubt may be made, and ſo will by the Merchants, and ſuch whoſe Intereſt and Care is either to maintain the Old Company, or elſe by way of</hi> Subſcription <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> their own ſakes to ſet up a New, but thoſe and all other Objections may, 'tis hoped, be eaſily Anſwered when made, and Gentlemen are deſired to take notice, that if this be not done now, it will be after this Seſſions too late.</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>December</hi> 29. 1693.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
